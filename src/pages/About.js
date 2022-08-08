@@ -11,6 +11,8 @@ const About = () => {
             quickly shift gears is something that GA has made sure all their students achieve. Please take the time to view the projects that I have created
             thus far and see the growth I achieved in those 3 months!
             </p>
+            <p>            <br/>
+            Please Contact me at: anthony.jose53@gmail.com</p>
             </span>
         </div>
     )
